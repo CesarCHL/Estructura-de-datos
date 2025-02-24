@@ -33,7 +33,19 @@ public class Estructura_de_datos {
         Circle objArea = new Circle();
         double area = objArea.calculateArea(radius);
         System.out.printf("El área del círculo es: %.2f%n", area);
+        
+        System.out.println("Ingresa la calificacion de tu examen: ");
+        double examen = objScanner.nextDouble();
+        System.out.println("Ingresa tu promedio de tareas: ");
+        double tareas = objScanner.nextDouble();
+        
+        GradeCalculationPartial objPartial = new GradeCalculationPartial();
+        double partial = objPartial.examenParcial(examen, tareas);
+        System.out.println("Calificacion final: "+ partial);
         objScanner.close();
+        
+        SalesWithDiscount objDiscount = new SalesWithDiscount();
+        objDiscount.totalWithDiscount();
         
         NumberType objNumberType = new NumberType();
         objNumberType.evenOdd();
