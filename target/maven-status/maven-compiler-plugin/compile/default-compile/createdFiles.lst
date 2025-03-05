@@ -1,9 +1,13 @@
-com\edtructuradedatos\estructura_de_datos\NumberType.class
 com\edtructuradedatos\estructura_de_datos\GradeCalculationPartial.class
+com\edtructuradedatos\estructura_de_datos\SalesWithDiscount.class
+secondPartial\InsertionSort.class
+arrays\Main.class
+com\edtructuradedatos\estructura_de_datos\Circle.class
+secondPartial\SelectionSort.class
+com\edtructuradedatos\estructura_de_datos\NumberType.class
 arrays\ArrayListExample.class
 com\edtructuradedatos\estructura_de_datos\Estructura_de_datos.class
 com\edtructuradedatos\estructura_de_datos\UserData.class
-com\edtructuradedatos\estructura_de_datos\SalesWithDiscount.class
+secondPartial\BubbleSort.class
 com\edtructuradedatos\estructura_de_datos\StudentsGrades.class
-arrays\Main.class
-com\edtructuradedatos\estructura_de_datos\Circle.class
+secondPartial\Main.class
