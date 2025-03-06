@@ -7,6 +7,8 @@ package secondPartial;
 /**
  *
  * @author cesar
+ * Matricula: 12366
+ * Fecha: 03/06/2025
  */
 
 public class Main {

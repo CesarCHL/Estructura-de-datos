@@ -6,8 +6,15 @@ package secondPartial;
 
 /**
  *
- * @author cesar
+ * @author cesar 
+ * Matricula: 12366
+ * Fecha: 03/06/2025
+ * - Busca el elemento más pequeño en cada iteración y lo coloca en su posición correcta.
+ * - No importa si el arreglo está ordenado o no, siempre realiza O(n²) comparaciones.
+ * - En el mejor y peor caso, las comparaciones son las mismas.
+ * - Sin embargo, las operaciones de intercambio pueden ser menores en algunos casos.
  */
+
 
 public class SelectionSort {
     public static int steps = 0; // Contador de pasos
